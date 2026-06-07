@@ -1,101 +1,130 @@
-# Hello, I'm Alhobab Tagiddin
+# Alhobab Tagiddin
 
-
-<a href="https://linkedin.com/in/alhobab-tagiddin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-Objective
-
-# Provide Objective 
-
-My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-# Skills
-
-# Provide skills and associated project
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/cybe44oot/Detection-lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-
-# Tools
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<div align="center">
+  <a href="https://linkedin.com/in/alhobab-tagiddin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## 👋 About Me
 
-### DEVOPS
+I'm a DevOps Engineer passionate about building scalable, secure, and automated infrastructure on AWS and Kubernetes. I specialize in **Infrastructure as Code**, **containerization**, **CI/CD pipelines**, and **DevSecOps practices**. 
+
+Currently working on:
+- 🚀 **Kubernetes & EKS** - Cluster setup, management, and optimization
+- 🏗️ **Infrastructure as Code** - Terraform-based AWS infrastructure
+- 🔄 **GitOps** - ArgoCD deployments and continuous delivery
+- 🔐 **DevSecOps** - Secure infrastructure practices and automation
+
+---
+
+## 🛠️ Core Skills
+
+| Area | Expertise |
+|------|-----------|
+| **Container Orchestration** | Kubernetes (EKS, kubeadm), Docker, Helm |
+| **Infrastructure as Code** | Terraform, CloudFormation |
+| **Cloud Platform** | AWS (EKS, EC2, RDS, S3, IAM, Load Balancers, VPC) |
+| **GitOps & CD** | ArgoCD, Git-based deployments |
+| **Configuration Management** | Ansible, Helm charts |
+| **Monitoring & Observability** | Prometheus, Grafana |
+| **CI/CD** | Jenkins, GitHub Actions |
+| **DevSecOps** | Security scanning, IAM/OIDC, network policies |
+
+---
+
+## 🔧 Tech Stack
+
+### Cloud & Orchestration
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Helm-0F1689?&style=for-the-badge&logo=Helm&logoColor=white" />
+</div>
+
+### Infrastructure & Automation
+<div>
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=Terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ansible-FF7F00?&style=for-the-badge&logo=Ansible&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CloudFormation-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+</div>
+
+### CI/CD & GitOps
+<div>
+    <img src="https://img.shields.io/badge/-ArgoCD-EB6B56?&style=for-the-badge&logo=ArgoCD&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white" />
+</div>
+
+### Monitoring & Observability
+<div>
     <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" />
 </div>
-  <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
+
+### Version Control
+<div>
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitLab-FCA121?&style=for-the-badge&logo=GitLab&logoColor=white" />
 </div>
 
-### PENTESTING
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-5B5EA6?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-FF7F00?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-FF4E00?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF3D00?&style=for-the-badge&logo=OWASP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-2C7BFF?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLMap-1C3F94?&style=for-the-badge&logo=SQLMap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Aircrack-ng-00A8E1?&style=for-the-badge&logo=Aircrack-ng&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-FF4F00?&style=for-the-badge&logo=Hydra&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cobalt%20Strike-00B2A9?&style=for-the-badge&logo=CobaltStrike&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-4C4D4F?&style=for-the-badge&logo=Nikto&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-2B5D34?&style=for-the-badge&logo=Netcat&logoColor=white" />
-</div>
+---
 
+## 🎓 Certifications
 
-## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CySA%2B-00A3E0?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-RHCSA-CC0000?&style=for-the-badge&logo=RedHat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSA-009C7D?&style=for-the-badge&logo=CloudSecurityAlliance&logoColor=white" />
-    <img src="https://img.shields.io/badge/-EJPT-00A3E0?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PEH%20TCM-4A90E2?&style=for-the-badge&logo=TCMSecurity&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CND-0077C8?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-CKAD-00B3E3?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RHCSA-CC0000?&style=for-the-badge&logo=RedHat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+---
 
-## projects 
+## 📚 Projects
 
-<a href="https://github.com/cybe44oot/Detection-lab">Detection Lab</a>
+### [EKS Terraform Localstack Project](https://github.com/cybe44oot/EKS-Terraform-Localstack-project.git)
+AWS EKS cluster provisioning with Terraform and local testing with Localstack. Infrastructure as Code best practices for production-ready Kubernetes on AWS.
+
+### [3-Tier Python Postgres Project](https://github.com/cybe44oot/3-tier-Python-Postgres-Project.git)
+Multi-tier application architecture with Python backend and PostgreSQL database. Demonstrates application deployment and data persistence patterns.
+
+### [E-Commerce Kubernetes GitOps with ArgoCD](https://github.com/cybe44oot/E-Commerce-Kubernetes-GitOps-Deployment-with-Argo-CD.git)
+GitOps-based deployment pipeline for e-commerce application using ArgoCD. Continuous delivery from Git to Kubernetes with declarative infrastructure.
+
+### [Multi-Node Nginx LoadBalancer](https://github.com/cybe44oot/Multi-Node-Nginx-LoadBalancer.git)
+Load balancing setup across multiple nodes using Nginx. High availability and traffic distribution patterns for resilient infrastructure.
+
+### [Helm Mega Project](https://github.com/cybe44oot/Helm-Mega-Project.git)
+Comprehensive Helm charts for Kubernetes deployments. Package management and templating for scalable, reusable infrastructure configurations.
+
+---
+
+## 💡 What I'm Currently Working On
+
+- 🚀 **EKS & AWS Integration** - Load Balancer Controllers, IAM/OIDC, cluster networking
+- 📦 **Helm & Package Management** - Building scalable chart deployments
+- 🔄 **GitOps Pipelines** - ArgoCD and continuous delivery workflows
+- 🔐 **DevSecOps** - Security scanning, policy enforcement, secure infrastructure practices
+
+---
+
+## 🎯 Goals
+
+1. **Kubernetes Mastery** - Deep expertise in production-grade EKS deployments
+2. **Infrastructure Automation** - Fully automated, reproducible infrastructure
+3. **Cloud Architecture** - Design and deploy scalable, resilient AWS solutions
+4. **DevSecOps Leadership** - Integrate security at every stage of infrastructure
+
+---
+
+## 📫 Connect With Me
+
+Interested in discussing:
+- 🎯 Kubernetes & EKS challenges and best practices
+- 🏗️ Infrastructure as Code and Terraform patterns
+- 🔄 GitOps and CI/CD pipelines
+- ☁️ AWS architecture and optimization
+
+<a href="https://linkedin.com/in/alhobab-tagiddin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
